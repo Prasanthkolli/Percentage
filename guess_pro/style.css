@@ -1,0 +1,40 @@
+body{
+    background-color: #2e302f;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card{
+    background-color: #f2b807;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    height: 50vh;
+    width: 80%;
+    border-radius: 50px;
+}
+.per{
+    display: flex;
+    justify-content: center;
+}
+button{
+    color: black;
+    font-weight: bold;
+    height: 36px;
+    width: 120px;
+    border:none;
+    border-radius: 5px;
+    padding:5px;
+    margin: 2px;
+}
+div{
+    margin:10px;
+}
+#mid{
+    margin-left: 27px;
+}
+p{
+    font-weight: bold;
+}
